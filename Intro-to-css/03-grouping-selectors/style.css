@@ -1,0 +1,13 @@
+.button-class, .button-class-1 {
+ font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.button-class {
+background-color: #000000;
+color: white;
+}
+
+.button-class-1 {
+    background-color: yellow;
+}
