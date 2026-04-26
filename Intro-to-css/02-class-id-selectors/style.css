@@ -1,0 +1,19 @@
+.class-name {
+background-color: rgba(240, 11, 106, 0.623);
+font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#id-name {
+color: blue;
+font-size: 36px;
+}
+
+.class-name.three {
+    font-size: 24px;
+}
+
+#id-name-2 {
+    background-color: hsl(120, 90%, 55%);
+    font-size: 24px;
+    font-weight: bold;
+}
